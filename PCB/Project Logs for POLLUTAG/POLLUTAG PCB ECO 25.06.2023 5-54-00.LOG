@@ -1,0 +1,583 @@
+Added Component: Designator=C1(CAP_0603)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.rospek.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YC105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "3.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "GRM188R71E105KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "POLLUTAGv1"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.rospek.ru"; VariantName = "POLLUTAGv1"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "POLLUTAGv1"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "POLLUTAGv1"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YC105KAT2A"; VariantName = "POLLUTAGv1"
+Add component (AddParameter): Name = "Price"; Value = "3.00"; VariantName = "POLLUTAGv1"
+Add component (AddParameter): Name = "Replacement"; Value = "GRM188R71E105KA12D"; VariantName = "POLLUTAGv1"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "POLLUTAGv1"
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "POLLUTAGv1_1"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.rospek.ru"; VariantName = "POLLUTAGv1_1"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "POLLUTAGv1_1"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "POLLUTAGv1_1"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YC105KAT2A"; VariantName = "POLLUTAGv1_1"
+Add component (AddParameter): Name = "Price"; Value = "3.00"; VariantName = "POLLUTAGv1_1"
+Add component (AddParameter): Name = "Replacement"; Value = "GRM188R71E105KA12D"; VariantName = "POLLUTAGv1_1"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "POLLUTAGv1_1"
+Added Component: Designator=C2(CAP_0603)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.rospek.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YC105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "3.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "GRM188R71E105KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_0603)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.rospek.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YC105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "3.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "GRM188R71E105KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_0603)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.rospek.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YC105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "3.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "GRM188R71E105KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_0603)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.rospek.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YC105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "3.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "GRM188R71E105KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_0603)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.rospek.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YC105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "3.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "GRM188R71E105KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_0603)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.rospek.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YC105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "3.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "GRM188R71E105KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_0603)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.rospek.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603YC105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "3.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "GRM188R71E105KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=DD1(LCC28_1.25_7x7)
+Added Component: Designator=J1(SM05B-GHS-TB)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SM05B-GHS-TB(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sm05b-ghs-tb-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e4ef010dc292ea31091454f6c0afb63a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM05B-GHS-TB(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found HARWIN_M20-7910442R
+Add Component: Footprint Not Found HARWIN_M20-7910442R
+Added Component: Designator=R1(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ASSY_OPT"; Value = "NO POP"; VariantName = "POLLUTAGv1"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "POLLUTAGv1"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "POLLUTAGv1"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "POLLUTAGv1"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "POLLUTAGv1"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "POLLUTAGv1"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "POLLUTAGv1"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "POLLUTAGv1"
+Add component (AddParameter): Name = "ASSY_OPT"; Value = "NO POP"; VariantName = "POLLUTAGv1_1"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "POLLUTAGv1_1"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "POLLUTAGv1_1"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "POLLUTAGv1_1"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "POLLUTAGv1_1"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "POLLUTAGv1_1"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "POLLUTAGv1_1"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "POLLUTAGv1_1"
+Added Component: Designator=R2(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RES_0402)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "http://www.kontest.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-1000GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = "0402 100 Ohm 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TEST POINT)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.05$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "JMP"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found PSON65P250X250X100-8N - duplicate
+Added Component: Designator=U2(SCD4x)
+Added Component: Designator=XP1(CONN_2.54_4)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP2(CONN_2.54_4)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP3(CONN_2.54_4)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP4(CONN_2.54_4)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP5(CONN_2.54_4)
+Add component (AddParameter): Name = "ASSY_OPT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replacement"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=AUD+ Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=SWCLK Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=SWDIO Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VCC Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VCC Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=CAN2_TX Pin=C8-2
+Added Pin To Net: NetName=VCC Pin=DD1-1
+Added Pin To Net: NetName=GND Pin=DD1-2
+Added Pin To Net: NetName=SWDIO Pin=DD1-3
+Added Pin To Net: NetName=SWCLK Pin=DD1-4
+Added Pin To Net: NetName=I2C2_SCL Pin=DD1-5
+Added Pin To Net: NetName=I2C2_SDA Pin=DD1-6
+Added Pin To Net: NetName=1W_TEMP Pin=DD1-9
+Added Pin To Net: NetName=+24V Pin=DD1-10
+Added Pin To Net: NetName=CAN2_CONT Pin=DD1-12
+Added Pin To Net: NetName=CAN2_RX Pin=DD1-13
+Added Pin To Net: NetName=GND Pin=DD1-14
+Added Pin To Net: NetName=CAN1_TX Pin=DD1-15
+Added Pin To Net: NetName=GND Pin=DD1-16
+Added Pin To Net: NetName=AUD+ Pin=DD1-17
+Added Pin To Net: NetName=USART2_RX Pin=DD1-18
+Added Pin To Net: NetName=USART2_TX Pin=DD1-19
+Added Pin To Net: NetName=GND Pin=DD1-22
+Added Pin To Net: NetName=SPI2_SCK Pin=DD1-24
+Added Pin To Net: NetName=SPI2_NSS Pin=DD1-25
+Added Pin To Net: NetName=SPI2_MISO Pin=DD1-26
+Added Pin To Net: NetName=SPI2_MOSI Pin=DD1-27
+Added Pin To Net: NetName=CAN1_RX Pin=J1-1
+Added Pin To Net: NetName=CAN1_CONT Pin=J1-2
+Added Pin To Net: NetName=AVDPLL Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=CAN2_TX Pin=J1-5
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Added Pin To Net: NetName=ADC12_IN6 Pin=R1-1
+Added Pin To Net: NetName=CAN2_CONT Pin=R1-2
+Added Pin To Net: NetName=CAN2_RX Pin=R2-1
+Added Pin To Net: NetName=ADC12_IN7 Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-1
+Added Pin To Net: NetName=CAN2_CONT Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R4-1
+Added Pin To Net: NetName=CAN2_RX Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=R5-1
+Added Pin To Net: NetName=AUD+ Pin=R5-2
+Added Pin To Net: NetName=ADC12_IN6 Pin=R6-1
+Added Pin To Net: NetName=+24V Pin=R6-2
+Added Pin To Net: NetName=1W_TEMP Pin=R7-1
+Added Pin To Net: NetName=ADC12_IN7 Pin=R7-2
+Added Pin To Net: NetName=VCC Pin=R8-1
+Added Pin To Net: NetName=+24V Pin=R8-2
+Added Pin To Net: NetName=VCC Pin=R9-1
+Added Pin To Net: NetName=1W_TEMP Pin=R9-2
+Added Pin To Net: NetName=ADC12_IN6 Pin=R10-1
+Added Pin To Net: NetName=USART2_TX Pin=R10-2
+Added Pin To Net: NetName=USART2_RX Pin=R11-1
+Added Pin To Net: NetName=ADC12_IN7 Pin=R11-2
+Added Pin To Net: NetName=VCC Pin=R12-1
+Added Pin To Net: NetName=USART2_TX Pin=R12-2
+Added Pin To Net: NetName=VCC Pin=R13-1
+Added Pin To Net: NetName=USART2_RX Pin=R13-2
+Added Pin To Net: NetName=VCC Pin=R14-1
+Added Pin To Net: NetName=I2C2_SDA Pin=R14-2
+Added Pin To Net: NetName=VCC Pin=R15-1
+Added Pin To Net: NetName=I2C2_SCL Pin=R15-2
+Added Pin To Net: NetName=VCC Pin=R16-1
+Added Pin To Net: NetName=ADC12_IN6 Pin=R16-2
+Added Pin To Net: NetName=VCC Pin=R17-1
+Added Pin To Net: NetName=ADC12_IN7 Pin=R17-2
+Added Pin To Net: NetName=I2C2_SCL Pin=R18-1
+Added Pin To Net: NetName=AVDD_DISP Pin=R18-2
+Added Pin To Net: NetName=I2C2_SDA Pin=R19-1
+Added Pin To Net: NetName=AVDAD Pin=R19-2
+Added Pin To Net: NetName=I2C2_SDA Pin=R20-1
+Added Pin To Net: NetName=AUDIO_OUT Pin=R20-2
+Added Pin To Net: NetName=I2C2_SDA Pin=R21-1
+Added Pin To Net: NetName=AUD- Pin=R21-2
+Added Pin To Net: NetName=1W_TEMP Pin=R22-1
+Added Pin To Net: NetName=CAN1_RX Pin=R22-2
+Added Pin To Net: NetName=I2C2_SDA Pin=R23-1
+Added Pin To Net: NetName=CAN1_CONT Pin=R23-2
+Added Pin To Net: NetName=I2C2_SCL Pin=R24-1
+Added Pin To Net: NetName=AVDPLL Pin=R24-2
+Added Pin To Net: NetName=CAN1_TX Pin=TP1-1
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=VCC Pin=U2-7
+Added Pin To Net: NetName=AUDIO_OUT Pin=U2-9
+Added Pin To Net: NetName=AUD- Pin=U2-10
+Added Pin To Net: NetName=VCC Pin=U2-19
+Added Pin To Net: NetName=GND Pin=U2-20
+Added Pin To Net: NetName=GND Pin=U2-21
+Added Pin To Net: NetName=CAN2_CONT Pin=XP1-1
+Added Pin To Net: NetName=CAN2_RX Pin=XP1-2
+Added Pin To Net: NetName=VCC Pin=XP1-3
+Added Pin To Net: NetName=GND Pin=XP1-4
+Added Pin To Net: NetName=+24V Pin=XP2-1
+Added Pin To Net: NetName=1W_TEMP Pin=XP2-2
+Added Pin To Net: NetName=VCC Pin=XP2-3
+Added Pin To Net: NetName=GND Pin=XP2-4
+Added Pin To Net: NetName=USART2_TX Pin=XP3-1
+Added Pin To Net: NetName=USART2_RX Pin=XP3-2
+Added Pin To Net: NetName=VCC Pin=XP3-3
+Added Pin To Net: NetName=GND Pin=XP3-4
+Added Pin To Net: NetName=I2C2_SDA Pin=XP4-1
+Added Pin To Net: NetName=I2C2_SCL Pin=XP4-2
+Added Pin To Net: NetName=VCC Pin=XP4-3
+Added Pin To Net: NetName=GND Pin=XP4-4
+Added Pin To Net: NetName=SPI2_MISO Pin=XP5-1
+Added Pin To Net: NetName=SPI2_MOSI Pin=XP5-2
+Added Pin To Net: NetName=SPI2_SCK Pin=XP5-3
+Added Pin To Net: NetName=SPI2_NSS Pin=XP5-4
+Change Net Name : Old Net Name=+24V New Net Name=UART1_TX
+Change Net Name : Old Net Name=1W_TEMP New Net Name=UART1_RX
+Change Net Name : Old Net Name=ADC12_IN6 New Net Name=TXD_PC
+Change Net Name : Old Net Name=ADC12_IN7 New Net Name=RXD_PC
+Change Net Name : Old Net Name=AUD+ New Net Name=RST
+Change Net Name : Old Net Name=AUD- New Net Name=NetR21_2
+Change Net Name : Old Net Name=AUDIO_OUT New Net Name=NetR20_2
+Change Net Name : Old Net Name=AVDAD New Net Name=NetR19_2
+Change Net Name : Old Net Name=AVDD_DISP New Net Name=NetR18_2
+Change Net Name : Old Net Name=AVDPLL New Net Name=NetJ1_3
+Change Net Name : Old Net Name=CAN1_CONT New Net Name=NetJ1_2
+Change Net Name : Old Net Name=CAN1_RX New Net Name=NetJ1_1
+Change Net Name : Old Net Name=CAN1_TX New Net Name=NetDD1_15
+Change Net Name : Old Net Name=CAN2_CONT New Net Name=LPUART1_TX
+Change Net Name : Old Net Name=CAN2_RX New Net Name=LPUART1_RX
+Change Net Name : Old Net Name=CAN2_TX New Net Name=+5VDC
+Change Class Name : Old Net Name=PLC1_3 New Net Name=POLLLUTAG_1
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component C1 1uF
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component C2 1uF
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component C3 15pF
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component C4 15pF
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component C5 15pF
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component C6 1uF
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component C7 1uF
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component C8 1uF
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component DD1 LoRa-E5-HF
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component J1 SM05B-GHS-TB_LF__SN_
+Add Class Member: Failed to add class member : Component J2 M20-7910442R
+Add Class Member: Failed to add class member : Component J3 M20-7910442R
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R1 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R2 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R3 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R4 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R5 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R6 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R7 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R8 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R9 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R10 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R11 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R12 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R13 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R14 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R15 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R16 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R17 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R18 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R19 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R20 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R21 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R22 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R23 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component R24 Res_0402
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component TP1 JUMPER
+Add Class Member: Failed to add class member : Component U1 BME280
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component U2 SCD4x
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component XP1 LPUART1
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component XP2 UART1
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component XP3 USART2
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component XP4 I2C2
+Added Member To Class: ClassName=POLLLUTAG_1 Member=Component XP5 SPI2
+Added Room: Name=POLLLUTAG_1
